@@ -1,0 +1,49 @@
+c:\users\hivegu\documents\visual studio 2015\Projects\DataFrut\DataFrut\bin\Release\DataFrut.exe.config
+c:\users\hivegu\documents\visual studio 2015\Projects\DataFrut\DataFrut\bin\Release\DataFrut.exe
+c:\users\hivegu\documents\visual studio 2015\Projects\DataFrut\DataFrut\bin\Release\DataFrut.pdb
+c:\users\hivegu\documents\visual studio 2015\Projects\DataFrut\DataFrut\bin\Release\AjaxMin.dll
+c:\users\hivegu\documents\visual studio 2015\Projects\DataFrut\DataFrut\bin\Release\EntityFramework.dll
+c:\users\hivegu\documents\visual studio 2015\Projects\DataFrut\DataFrut\bin\Release\EntityFramework.SqlServer.dll
+c:\users\hivegu\documents\visual studio 2015\Projects\DataFrut\DataFrut\bin\Release\GMap.NET.Core.dll
+c:\users\hivegu\documents\visual studio 2015\Projects\DataFrut\DataFrut\bin\Release\GMap.NET.WindowsForms.dll
+c:\users\hivegu\documents\visual studio 2015\Projects\DataFrut\DataFrut\bin\Release\MySql.Data.dll
+c:\users\hivegu\documents\visual studio 2015\Projects\DataFrut\DataFrut\bin\Release\Newtonsoft.Json.dll
+c:\users\hivegu\documents\visual studio 2015\Projects\DataFrut\DataFrut\bin\Release\System.Data.SQLite.dll
+c:\users\hivegu\documents\visual studio 2015\Projects\DataFrut\DataFrut\bin\Release\System.Data.SQLite.EF6.dll
+c:\users\hivegu\documents\visual studio 2015\Projects\DataFrut\DataFrut\bin\Release\System.Data.SQLite.Linq.dll
+c:\users\hivegu\documents\visual studio 2015\Projects\DataFrut\DataFrut\bin\Release\EntityFramework.xml
+c:\users\hivegu\documents\visual studio 2015\Projects\DataFrut\DataFrut\bin\Release\EntityFramework.SqlServer.xml
+c:\users\hivegu\documents\visual studio 2015\Projects\DataFrut\DataFrut\bin\Release\Newtonsoft.Json.xml
+c:\users\hivegu\documents\visual studio 2015\Projects\DataFrut\DataFrut\bin\Release\System.Data.SQLite.xml
+c:\users\hivegu\documents\visual studio 2015\Projects\DataFrut\DataFrut\obj\Release\DataFrut.MainDataFrut.resources
+c:\users\hivegu\documents\visual studio 2015\Projects\DataFrut\DataFrut\obj\Release\DataFrut.Properties.Resources.resources
+c:\users\hivegu\documents\visual studio 2015\Projects\DataFrut\DataFrut\obj\Release\DataFrut.csproj.GenerateResource.Cache
+c:\users\hivegu\documents\visual studio 2015\Projects\DataFrut\DataFrut\obj\Release\DataFrut.exe
+c:\users\hivegu\documents\visual studio 2015\Projects\DataFrut\DataFrut\obj\Release\DataFrut.pdb
+c:\users\hivegu\documents\visual studio 2015\Projects\DataFrut\DataFrut\obj\Release\DataFrut.EditorMapa.resources
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut Respaldo\DataFrut\bin\Release\DataFrut.exe.config
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut Respaldo\DataFrut\bin\Release\DataFrut.exe
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut Respaldo\DataFrut\bin\Release\DataFrut.pdb
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut Respaldo\DataFrut\bin\Release\AjaxMin.dll
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut Respaldo\DataFrut\bin\Release\EntityFramework.dll
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut Respaldo\DataFrut\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut Respaldo\DataFrut\bin\Release\GMap.NET.Core.dll
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut Respaldo\DataFrut\bin\Release\GMap.NET.WindowsForms.dll
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut Respaldo\DataFrut\bin\Release\MySql.Data.dll
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut Respaldo\DataFrut\bin\Release\Newtonsoft.Json.dll
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut Respaldo\DataFrut\bin\Release\System.Data.SQLite.dll
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut Respaldo\DataFrut\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut Respaldo\DataFrut\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut Respaldo\DataFrut\bin\Release\EntityFramework.xml
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut Respaldo\DataFrut\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut Respaldo\DataFrut\bin\Release\Newtonsoft.Json.xml
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut Respaldo\DataFrut\bin\Release\System.Data.SQLite.xml
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut Respaldo\DataFrut\obj\Release\DataFrut.csprojResolveAssemblyReference.cache
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut Respaldo\DataFrut\obj\Release\DataFrut.EditorMapa.resources
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut Respaldo\DataFrut\obj\Release\DataFrut.MainDataFrut.resources
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut Respaldo\DataFrut\obj\Release\DataFrut.Properties.Resources.resources
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut Respaldo\DataFrut\obj\Release\DataFrut.csproj.GenerateResource.Cache
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut Respaldo\DataFrut\obj\Release\DataFrut.exe
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut Respaldo\DataFrut\obj\Release\DataFrut.pdb
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut\DataFrut\obj\Release\DataFrut.Login.resources
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut\DataFrut\obj\Release\DataFrut.csprojResolveAssemblyReference.cache

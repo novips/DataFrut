@@ -1,0 +1,51 @@
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut\DataFrut\obj\Debug\DataFrut.EditorMapa.resources
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut\DataFrut\obj\Debug\DataFrut.Login.resources
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut\DataFrut\obj\Debug\DataFrut.MainDataFrut.resources
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut\DataFrut\obj\Debug\DataFrut.Properties.Resources.resources
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut\DataFrut\obj\Debug\DataFrut.csproj.GenerateResource.Cache
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut\DataFrut\bin\Debug\DataFrut.exe.config
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut\DataFrut\bin\Debug\DataFrut.exe
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut\DataFrut\bin\Debug\DataFrut.pdb
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut\DataFrut\bin\Debug\AjaxMin.dll
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut\DataFrut\bin\Debug\EntityFramework.dll
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut\DataFrut\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut\DataFrut\bin\Debug\GMap.NET.Core.dll
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut\DataFrut\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut\DataFrut\bin\Debug\MySql.Data.dll
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut\DataFrut\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut\DataFrut\bin\Debug\System.Data.SQLite.dll
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut\DataFrut\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut\DataFrut\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut\DataFrut\bin\Debug\EntityFramework.xml
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut\DataFrut\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut\DataFrut\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut\DataFrut\bin\Debug\System.Data.SQLite.xml
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut\DataFrut\obj\Debug\DataFrut.exe
+C:\Users\Hivegu\Documents\Visual Studio 2015\Projects\DataFrut\DataFrut\obj\Debug\DataFrut.pdb
+C:\Users\Andres\Desktop\proyecto software ultima entrega\DataFrut\DataFrut\bin\Debug\DataFrut.exe.config
+C:\Users\Andres\Desktop\proyecto software ultima entrega\DataFrut\DataFrut\obj\Debug\DataFrut.exe
+C:\Users\Andres\Desktop\proyecto software ultima entrega\DataFrut\DataFrut\obj\Debug\DataFrut.pdb
+C:\Users\Andres\Desktop\proyecto software ultima entrega\DataFrut\DataFrut\obj\Debug\DataFrut.EditorMapa.resources
+C:\Users\Andres\Desktop\proyecto software ultima entrega\DataFrut\DataFrut\obj\Debug\DataFrut.Login.resources
+C:\Users\Andres\Desktop\proyecto software ultima entrega\DataFrut\DataFrut\obj\Debug\DataFrut.MainDataFrut.resources
+C:\Users\Andres\Desktop\proyecto software ultima entrega\DataFrut\DataFrut\obj\Debug\DataFrut.Properties.Resources.resources
+C:\Users\Andres\Desktop\proyecto software ultima entrega\DataFrut\DataFrut\obj\Debug\DataFrut.csproj.GenerateResource.Cache
+C:\Users\Andres\Desktop\proyecto software ultima entrega\DataFrut\DataFrut\bin\Debug\DataFrut.exe
+C:\Users\Andres\Desktop\proyecto software ultima entrega\DataFrut\DataFrut\bin\Debug\DataFrut.pdb
+C:\Users\Andres\Desktop\proyecto software ultima entrega\DataFrut\DataFrut\bin\Debug\AjaxMin.dll
+C:\Users\Andres\Desktop\proyecto software ultima entrega\DataFrut\DataFrut\bin\Debug\EntityFramework.dll
+C:\Users\Andres\Desktop\proyecto software ultima entrega\DataFrut\DataFrut\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andres\Desktop\proyecto software ultima entrega\DataFrut\DataFrut\bin\Debug\GMap.NET.Core.dll
+C:\Users\Andres\Desktop\proyecto software ultima entrega\DataFrut\DataFrut\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Andres\Desktop\proyecto software ultima entrega\DataFrut\DataFrut\bin\Debug\MySql.Data.dll
+C:\Users\Andres\Desktop\proyecto software ultima entrega\DataFrut\DataFrut\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andres\Desktop\proyecto software ultima entrega\DataFrut\DataFrut\bin\Debug\System.Data.SQLite.dll
+C:\Users\Andres\Desktop\proyecto software ultima entrega\DataFrut\DataFrut\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Andres\Desktop\proyecto software ultima entrega\DataFrut\DataFrut\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Andres\Desktop\proyecto software ultima entrega\DataFrut\DataFrut\bin\Debug\EntityFramework.xml
+C:\Users\Andres\Desktop\proyecto software ultima entrega\DataFrut\DataFrut\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andres\Desktop\proyecto software ultima entrega\DataFrut\DataFrut\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andres\Desktop\proyecto software ultima entrega\DataFrut\DataFrut\bin\Debug\System.Data.SQLite.xml
+C:\Users\Hivegu\Desktop\DataFrut\DataFrut\bin\Debug\DataFrut.exe.config
+C:\Users\Hivegu\Desktop\DataFrut\DataFrut\obj\Debug\DataFrut.exe
+C:\Users\Hivegu\Desktop\DataFrut\DataFrut\obj\Debug\DataFrut.pdb
